@@ -1,0 +1,36 @@
+h1, p, input {
+  text-align: center;
+}
+
+input {
+  margin-left: 25%;
+}
+#submit-error {
+  margin-left: 20px;
+}
+
+#error {
+  width: 550px;
+  font-size: 24px;
+}
+
+#circle {
+  border-radius: 50%;
+  background-color: black;
+  color: white;
+  width: 475px;
+  height: 475px;
+  margin-left: 30%;
+}
+
+#solution {
+
+  /*background-color: white;*/
+  color: white;
+  text-align: center;
+  padding-top: 200px;
+  font-size: 30px;
+}
+#msg {
+  font-size: 24px;
+}
